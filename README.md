@@ -1,5 +1,10 @@
 # play-audio-media
 
+## Project download
+```
+git clone git@github.com:Tengfei0418Shen/play-audio-media.git
+```
+
 ## Project setup
 ```
 npm install
